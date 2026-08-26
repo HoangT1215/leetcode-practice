@@ -3,6 +3,7 @@
 Problem: https://leetcode.com/problems/network-delay-time/
 
 Time complexity: O((V + E) log V)
+    - Explanation: heap operation is O(log n), while we have to traverse m+n states to check and properly update all vertices
 Space complexity: O(V + E)
 """
 
