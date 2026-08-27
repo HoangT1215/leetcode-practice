@@ -22,6 +22,7 @@ Solutions and brief notes organized by coding-interview technique.
 - [0002 - Add Two Numbers](linked-list/0002_add_two_numbers.py)
 - [0003 - Longest Substring Without Repeating Characters](string/0003_longest_substring_without_repeating_characters.py)
 - [0011 - Container With Most Water](two-pointer/0011_container_with_most_water.py)
+- [0048 - Rotate Image](list/0048_rotate_image.py)
 - [0056 - Merge Intervals](list/0056_merge_intervals.py)
 - [0069 - Sqrt(x)](search/0069_sqrtx.py)
 - [0096 - Unique Binary Search Trees](dynamic-programming/0096_unique_binary_search_trees.py)
