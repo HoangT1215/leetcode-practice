@@ -9,12 +9,14 @@ Solutions and brief notes organized by coding-interview technique.
 - [`two-pointer/`](two-pointer/): two-pointer problems
 - [`graph/`](graph/): graph problems
 - [`heap/`](heap/): heap and priority-queue problems
+- [`linked-list/`](linked-list/): linked-list problems
 - [`list/`](list/): array and list simulation problems
 - [`pandas/`](pandas/): Pandas DataFrame problems
 
 ## Problems
 
 - [0001 - Two Sum](dict/0001_two_sum.py)
+- [0002 - Add Two Numbers](linked-list/0002_add_two_numbers.py)
 - [0011 - Container With Most Water](two-pointer/0011_container_with_most_water.py)
 - [0056 - Merge Intervals](list/0056_merge_intervals.py)
 - [0560 - Subarray Sum Equals K](dynamic-programming/0560_subarray_sum_equals_k.py)
