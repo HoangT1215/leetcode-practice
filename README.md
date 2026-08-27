@@ -4,6 +4,7 @@ Solutions and brief notes organized by coding-interview technique.
 
 ## Topics
 
+- [`dict/`](dict/): dictionary and hash-map problems
 - [`dynamic-programming/`](dynamic-programming/): dynamic programming and prefix-sum problems
 - [`two-pointer/`](two-pointer/): two-pointer problems
 - [`graph/`](graph/): graph problems
@@ -13,6 +14,7 @@ Solutions and brief notes organized by coding-interview technique.
 
 ## Problems
 
+- [0001 - Two Sum](dict/0001_two_sum.py)
 - [0011 - Container With Most Water](two-pointer/0011_container_with_most_water.py)
 - [0056 - Merge Intervals](list/0056_merge_intervals.py)
 - [0560 - Subarray Sum Equals K](dynamic-programming/0560_subarray_sum_equals_k.py)
