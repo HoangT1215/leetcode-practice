@@ -8,6 +8,7 @@ Solutions and brief notes organized by coding-interview technique.
 - [`graph/`](graph/): graph problems
 - [`heap/`](heap/): heap and priority-queue problems
 - [`list/`](list/): array and list simulation problems
+- [`pandas/`](pandas/): Pandas DataFrame problems
 
 ## Problems
 
@@ -16,4 +17,5 @@ Solutions and brief notes organized by coding-interview technique.
 - [1196 - How Many Apples Can You Put into the Basket](heap/1196_how_many_apples_can_you_put_into_the_basket.py)
 - [1243 - Array Transformation](list/1243_array_transformation.py)
 - [2497 - Maximum Star Sum of a Graph](graph/2497_maximum_star_sum_of_a_graph.py)
+- [2880 - Select Data](pandas/2880_select_data.py)
 
