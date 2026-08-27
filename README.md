@@ -14,6 +14,7 @@ Solutions and brief notes organized by coding-interview technique.
 - [`linked-list/`](linked-list/): linked-list problems
 - [`list/`](list/): array and list simulation problems
 - [`pandas/`](pandas/): Pandas DataFrame problems
+- [`search/`](search/): binary-search problems
 
 ## Problems
 
@@ -22,6 +23,7 @@ Solutions and brief notes organized by coding-interview technique.
 - [0003 - Longest Substring Without Repeating Characters](string/0003_longest_substring_without_repeating_characters.py)
 - [0011 - Container With Most Water](two-pointer/0011_container_with_most_water.py)
 - [0056 - Merge Intervals](list/0056_merge_intervals.py)
+- [0069 - Sqrt(x)](search/0069_sqrtx.py)
 - [0096 - Unique Binary Search Trees](dynamic-programming/0096_unique_binary_search_trees.py)
 - [0104 - Maximum Depth of Binary Tree](binary-tree/0104_maximum_depth_of_binary_tree.py)
 - [0121 - Best Time to Buy and Sell Stock](list/0121_best_time_to_buy_and_sell_stock.py)
