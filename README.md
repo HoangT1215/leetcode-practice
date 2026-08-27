@@ -4,6 +4,7 @@ Solutions and brief notes organized by coding-interview technique.
 
 ## Topics
 
+- [`dynamic-programming/`](dynamic-programming/): dynamic programming and prefix-sum problems
 - [`two-pointer/`](two-pointer/): two-pointer problems
 - [`graph/`](graph/): graph problems
 - [`heap/`](heap/): heap and priority-queue problems
@@ -13,6 +14,7 @@ Solutions and brief notes organized by coding-interview technique.
 ## Problems
 
 - [0011 - Container With Most Water](two-pointer/0011_container_with_most_water.py)
+- [0560 - Subarray Sum Equals K](dynamic-programming/0560_subarray_sum_equals_k.py)
 - [0743 - Network Delay Time](heap/0743_network_delay_time.py)
 - [1196 - How Many Apples Can You Put into the Basket](heap/1196_how_many_apples_can_you_put_into_the_basket.py)
 - [1243 - Array Transformation](list/1243_array_transformation.py)
