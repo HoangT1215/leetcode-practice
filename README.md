@@ -6,6 +6,7 @@ Solutions and brief notes organized by coding-interview technique.
 
 - [`binary-tree/`](binary-tree/): binary-tree problems
 - [`dict/`](dict/): dictionary and hash-map problems
+- [`string/`](string/): string and sliding-window problems
 - [`dynamic-programming/`](dynamic-programming/): dynamic programming and prefix-sum problems
 - [`two-pointer/`](two-pointer/): two-pointer problems
 - [`graph/`](graph/): graph problems
@@ -18,6 +19,7 @@ Solutions and brief notes organized by coding-interview technique.
 
 - [0001 - Two Sum](dict/0001_two_sum.py)
 - [0002 - Add Two Numbers](linked-list/0002_add_two_numbers.py)
+- [0003 - Longest Substring Without Repeating Characters](string/0003_longest_substring_without_repeating_characters.py)
 - [0011 - Container With Most Water](two-pointer/0011_container_with_most_water.py)
 - [0056 - Merge Intervals](list/0056_merge_intervals.py)
 - [0096 - Unique Binary Search Trees](dynamic-programming/0096_unique_binary_search_trees.py)
@@ -29,4 +31,3 @@ Solutions and brief notes organized by coding-interview technique.
 - [1243 - Array Transformation](list/1243_array_transformation.py)
 - [2497 - Maximum Star Sum of a Graph](graph/2497_maximum_star_sum_of_a_graph.py)
 - [2880 - Select Data](pandas/2880_select_data.py)
-
