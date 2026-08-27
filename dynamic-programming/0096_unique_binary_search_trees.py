@@ -12,9 +12,14 @@ class Solution:
         if n <= 1:
             return 1
 
-        # The direct recursive recurrence is correct but takes exponential
-        # time when its overlapping subproblems are not memoized.
+        # Recursive solution: correct, but exponentially slow without
+        # memoization because it repeatedly solves the same subproblems.
+        # total = 0
+        # for i in range(n):
+        #     total += self.numTrees(i) * self.numTrees(n - i - 1)
+        # return total
 
+        # Dynamic-programming solution.
         # dp[j] is the number of unique BSTs containing j ordered nodes.
         dp = [0] * (n + 1)
         dp[0], dp[1] = 1, 1
