@@ -17,6 +17,37 @@ class Solution:
         l1: Optional[ListNode],
         l2: Optional[ListNode],
     ) -> Optional[ListNode]:
+        # Brute-force alternative: convert both linked lists to one Python
+        # integer, add them, and reconstruct the result linked list.
+        # dummy = l1
+        # tail = dummy
+        # i = 0
+        # total = 0
+        # while tail:
+        #     total += tail.val * 10**i
+        #     i += 1
+        #     tail = tail.next
+        #
+        # dummy = l2
+        # tail = dummy
+        # i = 0
+        # while tail:
+        #     total += tail.val * 10**i
+        #     i += 1
+        #     tail = tail.next
+        #
+        # if total == 0:
+        #     return ListNode(0)
+        #
+        # dummy = ListNode()
+        # tail = dummy
+        # while total > 0:
+        #     tail.next = ListNode(total % 10)
+        #     tail = tail.next
+        #     total //= 10
+        # return dummy.next
+
+        # Carry calculation: add one digit from each list at a time.
         dummy = ListNode()
         tail = dummy
         carry = 0
