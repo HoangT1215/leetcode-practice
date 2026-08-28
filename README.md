@@ -4,6 +4,7 @@ Solutions and brief notes organized by coding-interview technique.
 
 ## Topics
 
+- [`backtrack/`](backtrack/): backtracking and combinatorial-search problems
 - [`binary-tree/`](binary-tree/): binary-tree problems
 - [`dict/`](dict/): dictionary and hash-map problems
 - [`string/`](string/): string and sliding-window problems
@@ -29,6 +30,7 @@ Solutions and brief notes organized by coding-interview technique.
 - [0104 - Maximum Depth of Binary Tree](binary-tree/0104_maximum_depth_of_binary_tree.py)
 - [0121 - Best Time to Buy and Sell Stock](list/0121_best_time_to_buy_and_sell_stock.py)
 - [0300 - Longest Increasing Subsequence](dynamic-programming/0300_longest_increasing_subsequence.py)
+- [0465 - Optimal Account Balancing](backtrack/0465_optimal_account_balancing.py)
 - [0560 - Subarray Sum Equals K](dynamic-programming/0560_subarray_sum_equals_k.py)
 - [0743 - Network Delay Time](heap/0743_network_delay_time.py)
 - [1196 - How Many Apples Can You Put into the Basket](heap/1196_how_many_apples_can_you_put_into_the_basket.py)
