@@ -25,6 +25,7 @@ Solutions and brief notes organized by coding-interview technique.
 - [0011 - Container With Most Water](two-pointer/0011_container_with_most_water.py)
 - [0048 - Rotate Image](list/0048_rotate_image.py)
 - [0051 - N-Queens](backtrack/0051_n_queens.py)
+- [0055 - Jump Game](list/0055_jump_game.py)
 - [0056 - Merge Intervals](list/0056_merge_intervals.py)
 - [0069 - Sqrt(x)](search/0069_sqrtx.py)
 - [0096 - Unique Binary Search Trees](dynamic-programming/0096_unique_binary_search_trees.py)
