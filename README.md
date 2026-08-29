@@ -23,6 +23,7 @@ Solutions and brief notes organized by coding-interview technique.
 - [0002 - Add Two Numbers](linked-list/0002_add_two_numbers.py)
 - [0003 - Longest Substring Without Repeating Characters](string/0003_longest_substring_without_repeating_characters.py)
 - [0011 - Container With Most Water](two-pointer/0011_container_with_most_water.py)
+- [0046 - Permutations](backtrack/0046_permutations.py)
 - [0048 - Rotate Image](list/0048_rotate_image.py)
 - [0051 - N-Queens](backtrack/0051_n_queens.py)
 - [0055 - Jump Game](list/0055_jump_game.py)
