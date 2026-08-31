@@ -32,6 +32,7 @@ Solutions and brief notes organized by coding-interview technique.
 - [0096 - Unique Binary Search Trees](dynamic-programming/0096_unique_binary_search_trees.py)
 - [0104 - Maximum Depth of Binary Tree](binary-tree/0104_maximum_depth_of_binary_tree.py)
 - [0121 - Best Time to Buy and Sell Stock](list/0121_best_time_to_buy_and_sell_stock.py)
+- [0200 - Number of Islands](graph/0200_number_of_islands.py)
 - [0300 - Longest Increasing Subsequence](dynamic-programming/0300_longest_increasing_subsequence.py)
 - [0465 - Optimal Account Balancing](backtrack/0465_optimal_account_balancing.py)
 - [0560 - Subarray Sum Equals K](dynamic-programming/0560_subarray_sum_equals_k.py)
