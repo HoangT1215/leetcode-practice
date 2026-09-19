@@ -24,6 +24,7 @@ Solutions and brief notes organized by coding-interview technique.
 - [0003 - Longest Substring Without Repeating Characters](string/0003_longest_substring_without_repeating_characters.py)
 - [0011 - Container With Most Water](two-pointer/0011_container_with_most_water.py)
 - [0015 - 3Sum](two-pointer/0015_3sum.py)
+- [0016 - 3Sum Closest](two-pointer/0016_3sum_closest.py)
 - [0046 - Permutations](backtrack/0046_permutations.py)
 - [0048 - Rotate Image](list/0048_rotate_image.py)
 - [0051 - N-Queens](backtrack/0051_n_queens.py)
