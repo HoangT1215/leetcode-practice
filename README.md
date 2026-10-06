@@ -38,6 +38,7 @@ Solutions and brief notes organized by coding-interview technique.
 - [0122 - Best Time to Buy and Sell Stock II](list/0122_best_time_to_buy_and_sell_stock_ii.py)
 - [0127 - Word Ladder](graph/0127_word_ladder.py)
 - [0200 - Number of Islands](graph/0200_number_of_islands.py)
+- [0295 - Find Median from Data Stream](heap/0295_find_median_from_data_stream.py)
 - [0300 - Longest Increasing Subsequence](dynamic-programming/0300_longest_increasing_subsequence.py)
 - [0465 - Optimal Account Balancing](backtrack/0465_optimal_account_balancing.py)
 - [0560 - Subarray Sum Equals K](dynamic-programming/0560_subarray_sum_equals_k.py)
