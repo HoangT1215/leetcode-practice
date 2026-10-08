@@ -45,6 +45,7 @@ Solutions and brief notes organized by coding-interview technique.
 - [0733 - Flood Fill](graph/0733_flood_fill.py)
 - [0743 - Network Delay Time](heap/0743_network_delay_time.py)
 - [0787 - Cheapest Flights Within K Stops](graph/0787_cheapest_flights_within_k_stops.py)
+- [0813 - Largest Sum of Averages](dynamic-programming/0813_largest_sum_of_averages.py)
 - [1196 - How Many Apples Can You Put into the Basket](heap/1196_how_many_apples_can_you_put_into_the_basket.py)
 - [1243 - Array Transformation](list/1243_array_transformation.py)
 - [1338 - Reduce Array Size to The Half](list/1338_reduce_array_size_to_the_half.py)
