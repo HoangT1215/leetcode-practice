@@ -32,6 +32,7 @@ Solutions and brief notes organized by coding-interview technique.
 - [0055 - Jump Game](list/0055_jump_game.py)
 - [0056 - Merge Intervals](list/0056_merge_intervals.py)
 - [0069 - Sqrt(x)](search/0069_sqrtx.py)
+- [0078 - Subsets](backtrack/0078_subsets.py)
 - [0096 - Unique Binary Search Trees](dynamic-programming/0096_unique_binary_search_trees.py)
 - [0104 - Maximum Depth of Binary Tree](binary-tree/0104_maximum_depth_of_binary_tree.py)
 - [0120 - Triangle](dynamic-programming/0120_triangle.py)
