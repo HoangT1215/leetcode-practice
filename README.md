@@ -46,6 +46,7 @@ Solutions and brief notes organized by coding-interview technique.
 - [0300 - Longest Increasing Subsequence](dynamic-programming/0300_longest_increasing_subsequence.py)
 - [0465 - Optimal Account Balancing](backtrack/0465_optimal_account_balancing.py)
 - [0560 - Subarray Sum Equals K](dynamic-programming/0560_subarray_sum_equals_k.py)
+- [0714 - Best Time to Buy and Sell Stock with Transaction Fee](dynamic-programming/0714_best_time_to_buy_and_sell_stock_with_transaction_fee.py)
 - [0733 - Flood Fill](graph/0733_flood_fill.py)
 - [0743 - Network Delay Time](heap/0743_network_delay_time.py)
 - [0787 - Cheapest Flights Within K Stops](graph/0787_cheapest_flights_within_k_stops.py)
