@@ -2,8 +2,8 @@
 
 Problem: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
 
-Time complexity: O(n * k), or O(n) when the transaction limit does not bind
-Space complexity: O(k), or O(1) for the unlimited-transactions shortcut
+Time complexity: O(n * k), or O(n) for the zero-fee unlimited-transactions shortcut
+Space complexity: O(k), or O(1) for that shortcut
 """
 
 import numpy as np
@@ -12,10 +12,12 @@ import numpy as np
 class Solution:
     def maxProfit(self, k: int, prices: list[int]) -> int:
         n = len(prices)
+        fee = 0  # version with fee
         if k == 0 or n < 2:  # basically no trade possible
             return 0
 
-        if k >= n // 2:  # basically no transaction constraint
+        # Summing positive daily changes is valid only when there is no fee.
+        if fee == 0 and k >= n // 2:  # basically no transaction constraint
             return sum(
                 max(0, prices[i] - prices[i - 1])
                 for i in range(1, n)
@@ -29,7 +31,7 @@ class Solution:
         for price in prices:
             for t in range(k, 0, -1):
                 cash[t], hold[t] = (
-                    max(cash[t], hold[t] + price),
+                    max(cash[t], hold[t] + price - fee),
                     max(hold[t], cash[t - 1] - price),
                 )
 
