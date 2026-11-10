@@ -5,6 +5,7 @@ Solutions and brief notes organized by coding-interview technique.
 ## Topics
 
 - [`backtrack/`](backtrack/): backtracking and combinatorial-search problems
+- [`bitmask/`](bitmask/): bit manipulation and bitmask problems
 - [`binary-tree/`](binary-tree/): binary-tree problems
 - [`dict/`](dict/): dictionary and hash-map problems
 - [`string/`](string/): string and sliding-window problems
@@ -44,6 +45,7 @@ Solutions and brief notes organized by coding-interview technique.
 - [0235 - Lowest Common Ancestor of a Binary Search Tree](binary-tree/0235_lowest_common_ancestor_of_a_binary_search_tree.py)
 - [0295 - Find Median from Data Stream](heap/0295_find_median_from_data_stream.py)
 - [0300 - Longest Increasing Subsequence](dynamic-programming/0300_longest_increasing_subsequence.py)
+- [0338 - Counting Bits](bitmask/0338_counting_bits.py)
 - [0465 - Optimal Account Balancing](backtrack/0465_optimal_account_balancing.py)
 - [0560 - Subarray Sum Equals K](dynamic-programming/0560_subarray_sum_equals_k.py)
 - [0714 - Best Time to Buy and Sell Stock with Transaction Fee](dynamic-programming/0714_best_time_to_buy_and_sell_stock_with_transaction_fee.py)
