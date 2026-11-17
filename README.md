@@ -59,6 +59,7 @@ Solutions and brief notes organized by coding-interview technique.
 - [0813 - Largest Sum of Averages](dynamic-programming/0813_largest_sum_of_averages.py)
 - [1196 - How Many Apples Can You Put into the Basket](heap/1196_how_many_apples_can_you_put_into_the_basket.py)
 - [1243 - Array Transformation](list/1243_array_transformation.py)
+- [1312 - Minimum Insertion Steps to Make a String Palindrome](dynamic-programming/1312_minimum_insertion_steps_to_make_a_string_palindrome.py)
 - [1338 - Reduce Array Size to The Half](list/1338_reduce_array_size_to_the_half.py)
 - [1911 - Maximum Alternating Subsequence Sum](dynamic-programming/1911_maximum_alternating_subsequence_sum.py)
 - [1915 - Number of Wonderful Substrings](bitmask/1915_number_of_wonderful_substrings.py)
