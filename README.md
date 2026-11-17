@@ -60,6 +60,7 @@ Solutions and brief notes organized by coding-interview technique.
 - [1243 - Array Transformation](list/1243_array_transformation.py)
 - [1338 - Reduce Array Size to The Half](list/1338_reduce_array_size_to_the_half.py)
 - [1911 - Maximum Alternating Subsequence Sum](dynamic-programming/1911_maximum_alternating_subsequence_sum.py)
+- [1915 - Number of Wonderful Substrings](bitmask/1915_number_of_wonderful_substrings.py)
 - [1971 - Find if Path Exists in Graph](graph/1971_find_if_path_exists_in_graph.py)
 - [2497 - Maximum Star Sum of a Graph](graph/2497_maximum_star_sum_of_a_graph.py)
 - [2880 - Select Data](pandas/2880_select_data.py)
