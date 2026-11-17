@@ -8,6 +8,7 @@ Solutions and brief notes organized by coding-interview technique.
 - [`bitmask/`](bitmask/): bit manipulation and bitmask problems
 - [`binary-tree/`](binary-tree/): binary-tree problems
 - [`dict/`](dict/): dictionary and hash-map problems
+- [`deque/`](deque/): double-ended queue and monotonic-deque problems
 - [`string/`](string/): string and sliding-window problems
 - [`dynamic-programming/`](dynamic-programming/): dynamic programming and prefix-sum problems
 - [`two-pointer/`](two-pointer/): two-pointer problems
@@ -43,6 +44,7 @@ Solutions and brief notes organized by coding-interview technique.
 - [0188 - Best Time to Buy and Sell Stock IV](dynamic-programming/0188_best_time_to_buy_and_sell_stock_iv.py)
 - [0200 - Number of Islands](graph/0200_number_of_islands.py)
 - [0235 - Lowest Common Ancestor of a Binary Search Tree](binary-tree/0235_lowest_common_ancestor_of_a_binary_search_tree.py)
+- [0239 - Sliding Window Maximum](deque/0239_sliding_window_maximum.py)
 - [0295 - Find Median from Data Stream](heap/0295_find_median_from_data_stream.py)
 - [0300 - Longest Increasing Subsequence](dynamic-programming/0300_longest_increasing_subsequence.py)
 - [0338 - Counting Bits](bitmask/0338_counting_bits.py)
