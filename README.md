@@ -24,6 +24,7 @@ Solutions and brief notes organized by coding-interview technique.
 - [0001 - Two Sum](dict/0001_two_sum.py)
 - [0002 - Add Two Numbers](linked-list/0002_add_two_numbers.py)
 - [0003 - Longest Substring Without Repeating Characters](string/0003_longest_substring_without_repeating_characters.py)
+- [0005 - Longest Palindromic Substring](string/0005_longest_palindromic_substring.py)
 - [0011 - Container With Most Water](two-pointer/0011_container_with_most_water.py)
 - [0015 - 3Sum](two-pointer/0015_3sum.py)
 - [0016 - 3Sum Closest](two-pointer/0016_3sum_closest.py)

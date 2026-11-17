@@ -1,3 +1,27 @@
+"""LeetCode 787: Cheapest Flights Within K Stops.
+
+Problem: https://leetcode.com/problems/cheapest-flights-within-k-stops/
+
+Let m = len(flights) and F = k + 1, the maximum number of flights allowed.
+All space bounds below exclude the input.
+
+Active Bellman-Ford solution:
+    Time: O(F * (n + m)). Each of F rounds copies n costs and scans m flights.
+    The copy matters: the precise bound includes n, not just the edge count m.
+    Auxiliary space: O(n). Only cost and next_cost are stored; rounds do not
+    accumulate separate arrays.
+
+Commented naive route-enumeration solution:
+    Let b be the maximum outgoing degree and W = 1 + b + ... + b**F.
+    There can be up to W route states, since the same city can be revisited
+    through many different routes without deduplication.
+    Time: O(n + m + F + W), including adjacency construction and the cost array.
+    Auxiliary space: O(n + m + F + W). Advancing head does not remove processed
+    queue entries, so the list retains all enqueued route states.
+    For b >= 2, W = O(b**F): the worst-case growth is exponential in k.
+"""
+
+
 class Solution:
     def findCheapestPrice(
         self,
