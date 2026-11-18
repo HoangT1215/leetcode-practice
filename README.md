@@ -49,6 +49,7 @@ Solutions and brief notes organized by coding-interview technique.
 - [0295 - Find Median from Data Stream](heap/0295_find_median_from_data_stream.py)
 - [0300 - Longest Increasing Subsequence](dynamic-programming/0300_longest_increasing_subsequence.py)
 - [0338 - Counting Bits](bitmask/0338_counting_bits.py)
+- [0347 - Top K Frequent Elements](list/0347_top_k_frequent_elements.py)
 - [0465 - Optimal Account Balancing](backtrack/0465_optimal_account_balancing.py)
 - [0560 - Subarray Sum Equals K](dynamic-programming/0560_subarray_sum_equals_k.py)
 - [0643 - Maximum Average Subarray I](list/0643_maximum_average_subarray_i.py)
